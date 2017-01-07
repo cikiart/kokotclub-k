@@ -2,7 +2,7 @@
     "room": "Kokot Music Club",
     "author": "ciki",
     "icon": "http://i.imgur.com/t0D19Bh.png",
-    "css": "https://rawgit.com/cikiart/kokotclub-k/master/dj.css",
+    "css": "https://rawgit.com/cikiart/kokotclub-k/master/1dj.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
