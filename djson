@@ -28,7 +28,7 @@
         
     },
     "images": {
-        "background": "http://i.imgur.com/V59HFPf.gifv",
+        "background": "https://cdn.radiant.dj/rcs/bg/3.png",
         "playback": "http://i.imgur.com/GLXfNQC.png",
         "admin": null,
         "ambassador": "https://rawgit.com/TheStrangerGuy/EDT/master/images/BA.png",
